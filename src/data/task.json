@@ -1,0 +1,85 @@
+
+  {
+"task": [
+    { 
+      "id": 1,
+      "title": "Learn Next.js Basics",
+      "description": "Understand routing, components, and layout in Next.js",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2026-04-25"
+    },
+    {
+      "id": 2,
+      "title": "Build Navbar Component",
+      "description": "Create responsive navbar using Tailwind CSS",
+      "status": "completed",
+      "priority": "medium",
+      "dueDate": "2026-04-20"
+    },
+    {
+      "id": 3,
+      "title": "Setup JSON Server",
+      "description": "Create fake API using json-server",
+      "status": "completed",
+      "priority": "high",
+      "dueDate": "2026-04-18"
+    },
+    {
+      "id": 4,
+      "title": "Fetch API Data",
+      "description": "Fetch data in Server Component",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2026-04-26"
+    },
+    {
+      "id": 5,
+      "title": "Create Product Cards",
+      "description": "Design card UI using DaisyUI",
+      "status": "in-progress",
+      "priority": "medium",
+      "dueDate": "2026-04-27"
+    },
+    {
+      "id": 6,
+      "title": "Dynamic Routing",
+      "description": "Implement dynamic routes in Next.js",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2026-04-28"
+    },
+    {
+      "id": 7,
+      "title": "Add Loading UI",
+      "description": "Create loading.js for pages",
+      "status": "pending",
+      "priority": "low",
+      "dueDate": "2026-04-30"
+    },
+    {
+      "id": 8,
+      "title": "Error Handling",
+      "description": "Handle fetch errors properly",
+      "status": "pending",
+      "priority": "medium",
+      "dueDate": "2026-05-01"
+    },
+    {
+      "id": 9,
+      "title": "Deploy Project",
+      "description": "Deploy Next.js app to Vercel",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2026-05-05"
+    },
+    {
+      "id": 10,
+      "title": "Optimize Performance",
+      "description": "Improve loading speed and caching",
+      "status": "in-progress",
+      "priority": "medium",
+      "dueDate": "2026-05-03"
+    }
+  ]
+}
